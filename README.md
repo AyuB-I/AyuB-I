@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyuB-I
-- 👀 I’m interested in Programming adn Graphic Designing. I develop Bots and Web sites.
+- 👀 I’m interested in Programming and Graphic Designing. I develop Bots and Web sites.
 - 🌱 I’m currently learning back-end programming in Django.
 - 💞️ I’m looking to collaborate on Telegram Bot Development with python framework Aiogram.
 - 📫 How to reach me:
